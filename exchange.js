@@ -1,5 +1,5 @@
 import config from "./config.js";
-console.log(config);
+
 const amount = document.getElementById("amount");
 const currency = document.getElementById("currency");
 const convert = document.getElementById("convert");
